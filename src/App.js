@@ -20,7 +20,7 @@ function Modal() {
     <div className="modal">
       <h2>제목</h2>
       <p>날짜</p>
-      <p>상세 내용</p>
+      <p>상세 내용1</p>
     </div>
   );
 }
